@@ -1,0 +1,12 @@
+*
+!/.gitignore
+!/README.md
+!/docs/
+!/docs/_config.yml
+!/docs/_layouts/
+!/docs/_layouts/wiki.html
+!/docs/index.md
+!/docs/handoff.md
+!/docs/delivery.md
+!/docs/journal.md
+!/docs/sample.json
