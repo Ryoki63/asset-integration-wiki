@@ -1,0 +1,14 @@
+- key: connection
+  title: 接続条件を記録する
+  status: 公開サンプルで確認
+  checked: '2026-11-27'
+  result: 箱札の例で、正しい入力から札を作り、数量の単位・書式の版が合わない入力を拒否した。
+  next: 別の担当者が説明を受けずに同じ結果まで進めるかを確認する。
+  page: handoff.html
+- key: distribution
+  title: 本体を配布せずに使ってもらう方法を探る
+  status: 選択肢を整理
+  checked: '2026-11-27'
+  result: 実行環境を提供する方法と、処理結果を提供する方法を、端末配布と比較する観点を整理した。
+  next: 入力が外部に出せない場合と、利用者が結果を自分で訂正したい場合を比較する。
+  page: delivery.html
